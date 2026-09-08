@@ -1,4 +1,4 @@
-# ABN Platform Engineering Assessment
+# Platform Engineering Assessment
 
 ## Solution Overview
 
