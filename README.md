@@ -132,7 +132,7 @@ sequenceDiagram
 ## Repository Structure
 
 ```text
-abn-assessment/
+assessment/
 	README.md
 	aks/
 	app/
